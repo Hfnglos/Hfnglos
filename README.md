@@ -1,4 +1,4 @@
-<h4><strong> Hello my name is Julian</strong></h4>
+<h4><strong> Hi I'm Julian</strong></h4>
 <p>I'm a Software Engineering student in Germany and work on small Video Games in my free time.<br>
 My main interests lay with GameDev and I'm currently learning Godot.</p>
 <!---
