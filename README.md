@@ -1,6 +1,6 @@
 <h4><strong> Hi I'm Julian</strong></h4>
 <p>I'm a Software Engineering student in Germany and work on small Video Games in my free time.<br>
-My main interests lay with GameDev and I'm currently learning Godot.</p>
+My main interests lay with GameDev and coding apps that help my daily life.</p>
 <!---
 Hfnglos/Hfnglos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
